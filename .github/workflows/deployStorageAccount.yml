@@ -19,7 +19,7 @@ jobs:
       with:
         subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION }}
         resourceGroupName: ${{ secrets.AZURE_RG }}
-        template: github-slideshow/.github/workflows/template.json
+        template: .github/workflows/template.json
         parameters: storageAccountType=Standard_LRS 
 
       # output containerName variable from template

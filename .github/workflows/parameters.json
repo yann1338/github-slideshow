@@ -9,7 +9,7 @@
             "value": "testyanstoragesccount"
         },
         "accountType": {
-            "value": "Standard_RAGRS"
+            "value": "Standard_LRS"
         },
         "kind": {
             "value": "StorageV2"

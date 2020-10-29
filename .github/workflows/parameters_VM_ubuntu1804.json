@@ -75,9 +75,6 @@
         },
         "adminUsername": {
             "value": "localadmin"
-        },
-        "adminPassword": {
-            "value": ${{ secrets.AZURE_rootpw }}
         }
     }
 }

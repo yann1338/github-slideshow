@@ -77,7 +77,7 @@
             "value": "localadmin"
         },
         "adminPassword": {
-            "value": null
+            "value": "Localadmin12"
         }
     }
 }
